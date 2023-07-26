@@ -1,4 +1,3 @@
-```
 <?php
 $num = 0;
 while(true){
@@ -15,4 +14,3 @@ while(true){
     }
 }
 ?>
-```
